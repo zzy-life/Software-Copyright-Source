@@ -18,3 +18,7 @@ java -jar Source2Docx-1.1.jar /projectPath  .java   begin.docx      end.docx    
  第四个参数 结尾30页word文档名称
 
  第五个参数 全部word文档名称
+
+## 非开发人员使用
+
+直接双击安装项目根目录下的软著源代码生成工具.exe 即可打开GUI界面生成
