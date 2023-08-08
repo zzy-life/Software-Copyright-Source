@@ -22,3 +22,12 @@ java -jar Source2Docx-1.1.jar /projectPath  .java   begin.docx      end.docx    
 ## 非开发人员使用
 
 直接双击安装项目根目录下的软著源代码生成工具.exe 即可打开GUI界面生成
+
+### 百度云下载
+
+https://pan.baidu.com/s/10YG3pPlLcq0ANfzYEm5LAQ
+
+输入提取码: cb7h
+
+### 阿里云下载
+https://www.aliyundrive.com/s/z7qdd3gc7Ek
