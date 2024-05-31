@@ -8,6 +8,7 @@ https://a.webarcx.com/software
 软著文档鉴别材料，或者没有代码可以使用软件著作权生成方案来生成：
 http://a.webarcx.com/
 
+软著模板可以关注微信公众号获取：网络弧线
 
 用法参考：
 
